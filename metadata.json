@@ -1,0 +1,6 @@
+{
+  "name": "ToolMora",
+  "description": "ToolMora is a fast, SEO-optimized platform offering 20 free online tools for students, developers, creators, businesses, and everyday users. One Place. Every Tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
